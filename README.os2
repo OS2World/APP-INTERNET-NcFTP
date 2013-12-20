@@ -1,0 +1,22 @@
+NcFTP is a free set of programs that use the File Transfer Protocol.  It's
+been around for quite some time now (circa 1992) and many people still use
+the program and contribute suggestions and feedback.
+
+This is the OS/2 port of ncftp, built with GCC 4.52 on eCS 2.0.
+For more informations on ncftp you can simply browse the web, or read the
+documentation in this directory.
+
+All that I had to do was the standard configure/make procedure. The executable
+programs are in the os2\bin subdirectory, while the sources.zip file contains
+the original distribution. You can simply delete it, since you won't need it.
+
+As always, I can't give you any warranty for this program. So "use it at your
+own risk": I tried to start ncftp and connect to hobbes FTP site and it
+worked, but it's all I can say.
+
+Please consider making a donation to Paul Smedley and the OS/2 developers which
+are bringing modern development tools to OS/2 and eCS!
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
